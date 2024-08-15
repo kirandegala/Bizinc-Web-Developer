@@ -1,0 +1,12 @@
+<!-- Section 6: Azure App Services [Mandatory]
+1. Conceptual Questions:
+
+Steps to deploy a Node.js app to Azure App Services:
+
+    Create an Azure App Service instance.
+    Install the Azure CLI and log in.
+    Create a resource group (az group create).
+    Deploy the Node.js app with Git or using an Azure pipeline.
+    Set up Continuous Deployment for automatic updates.
+
+Common benefit of Azure App Services: It simplifies deployment and scaling of applications, offering built-in support for multiple languages, auto-scaling, and easy integration with other Azure services. -->
